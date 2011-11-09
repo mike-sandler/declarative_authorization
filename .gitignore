@@ -2,3 +2,6 @@ garlic.rb
 garlic
 nbproject
 rdoc
+tmp/*
+# track metric_fu output
+!tmp/metric_fu/
